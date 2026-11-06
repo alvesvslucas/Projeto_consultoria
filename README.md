@@ -1,28 +1,33 @@
-<p>
- <img src="./arquivos/demostrativo.png" alt="demonstração do projeto" width="100%" />
-</p>
+# Senhor Lei — consultoria jurídica
 
-## 🖥️ Projeto
+Página de apresentação de serviços jurídicos criada para praticar HTML e CSS. O conteúdo apresenta o consultor, áreas de atuação e informações de contato.
 
-Esse é um projeto Web desafiando conhecimento das tecnologias citadas abaixo.
+![Demonstração do projeto](./arquivos/demostrativo.png)
 
-### 🔎 Tecnologias
+## Tecnologias e recursos
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+- HTML para a estrutura e CSS para a apresentação.
+- Seções “Sobre nós”, “Área de atuação” e “Fale conosco”.
+- Galeria de imagens e fundos definidos no CSS.
+- Fonte Fredoka carregada pelo Google Fonts.
 
-- HTML
-- CSS
-- Github
+## Como visualizar
 
-## 🎨 Layout
+```bash
+git clone https://github.com/alvesvslucas/Projeto_consultoria.git
+cd Projeto_consultoria
+```
 
-Você pode visualizar o layout do projeto através
-[desse link](https://www.devmedia.com.br/).
-É necessario ter uma conta no [Devmedia](https://www.devmedia.com.br).
+Abra `index.html` em um navegador. A fonte externa requer conexão com a internet.
 
-### 🧑‍💻 Creditos
+## Estrutura
 
+- `index.html`: conteúdo da página.
+- `style.css`: estilos e fundos.
+- `arquivos/`: imagens e captura de demonstração.
 
-Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
+## Referências e créditos
 
+Projeto de estudo com referência à [DevMedia](https://www.devmedia.com.br/); o acesso ao conteúdo da plataforma pode exigir conta.
+Crédito ao professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/), preservado da documentação original.
 
